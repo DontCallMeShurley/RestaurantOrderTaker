@@ -34,5 +34,5 @@ WinForm app to take orders in a restaurant, written in .NET Core using OOP.
 ```xml
 MIT License
 
-Copyright (c) 2021 Anibal Ventura
+Copyright (c) 2023 Dmitrii Vazanov
 ```
